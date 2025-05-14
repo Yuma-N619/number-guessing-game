@@ -16,7 +16,7 @@ PythonとTkinterを使用して作成したGUIアプリケーションです。1
 - Tkinter（標準ライブラリ）
 
 ## スクリーンショット
-![アプリのスクリーンショット](screenshot.png)
+![イメージ画像](screenshot.png)
 
 ## 実行方法
 Pythonがインストールされていれば、以下のコマンドで実行できます：
