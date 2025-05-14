@@ -12,7 +12,7 @@ PythonとTkinterを使用して作成したGUIアプリケーションです。1
 - キーボードのEnterキーによる操作対応
 
 ## 使用技術
-- Python 3.x
+- Python 3.11.9
 - Tkinter（標準ライブラリ）
 
 ## 実行方法
